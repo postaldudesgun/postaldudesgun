@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/guitarblinkie.gif" alt="Guitar blinkie"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/eddsworldblinkie.gif" alt="Eddsworld blinkie"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/gunblinkie.gif" alt="Gun blinkie">
 
-img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/postaldudeeebbdd.gif" alt="My GIF"> <img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/david..gif" alt="David GIF">
+<img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/postaldudeeebbdd.gif" alt="My GIF"> <img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/david..gif" alt="David GIF">
 
 <img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/postal2player.png" alt="Postal 2 player">
 
