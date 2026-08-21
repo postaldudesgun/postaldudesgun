@@ -1,9 +1,8 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/postalblinkie.gif" alt="Postal blinkie"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/lpblinkie.gif" alt="LP blinkie"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/kmfdmblinkie.gif" alt="KMFDM blinkie"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/doomblinkie.gif" alt="DOOM blinkie">
-<img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/csrblinkie.gif" alt="CSR blinkie">
 
-<img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/guitarblinkie.gif" alt="Guitar blinkie"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/eddsworldblinkie.gif" alt="Eddsworld blinkie"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/gunblinkie.gif" alt="Gun blinkie">
+<img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/guitarblinkie.gif" alt="Guitar blinkie"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/eddsworldblinkie.gif" alt="Eddsworld blinkie"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/gunblinkie.gif" alt="Gun blinkie"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/postalreduxstamp.png" alt="Postal Redux stamp">
 
 <img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/postaldudeeebbdd.gif" alt="My GIF"> <img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/david..gif" alt="David GIF">
 
