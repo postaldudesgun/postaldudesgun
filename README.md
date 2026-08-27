@@ -21,5 +21,5 @@
 <p align="center">
 
   
-<p align="center"><a href="https://www.glitter-graphics.com"><img src="http://dl10.glitter-graphics.net/pub/3320/3320020g2qpwyx139.gif" width=350 height=250 border=0>
+<p align="center"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/david..gif" alt="David GIF">
 <p align="center">
