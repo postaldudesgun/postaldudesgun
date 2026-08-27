@@ -8,7 +8,7 @@
 
 
 
-<p align="center">  󠀠 ⠀ <a href="https://discord.com/users/1536279284061044776">discord</a> 󠀠 ⠀ <a href="https://brocest.atabook.org/">atabook</a> 󠀠 ⠀ <a href="https://striderbroo.straw.page">strawpage</a>
+<p align="center">  󠀠 ⠀ <a href="https://discord.com/users/1536279284061044776">discord</a> 󠀠 ⠀ <a href="https://brocest.atabook.org/">atabook</a> 󠀠 ⠀ <a href="(https://postalphile.straw.page/)">strawpage</a>
 
   
 <p align="center"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/david..gif" alt="David GIF">
