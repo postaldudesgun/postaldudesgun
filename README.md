@@ -8,7 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/postal2player.png" alt="Postal 2 player">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=wb21i2w3h0z1huaik6bqok0xc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff)](https://github.com/kittinan/spotify-github-profile)
+
 
 <img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/eddsworldstamp.png" alt="Eddsworld stamp"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/postalreduxstamp.png" alt="Postal Redux stamp"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/kmdfmstamp.gif" alt="KMFDM stamp"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/gorestamp.gif" alt="Gore stamp">
 </div>
@@ -24,7 +24,10 @@
 <p align="center">  󠀠 ⠀ <a href="https://discord.com/users/1536279284061044776">discord</a> 󠀠 ⠀ <a href="https://brocest.atabook.org/">atabook</a> 󠀠 ⠀ <a href="https://striderbroo.straw.page">strawpage</a> 󠀠 ⠀ <a 
 
 <p align="center">
-
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=wb21i2w3h0z1huaik6bqok0xc&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wb21i2w3h0z1huaik6bqok0xc&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=1c1f16&bar_color_cover=false">
+  </a>
+</p>
   
 <p align="center"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/david..gif" alt="David GIF">
 <p align="center">
