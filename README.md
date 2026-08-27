@@ -12,6 +12,11 @@
 
 <img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/eddsworldstamp.png" alt="Eddsworld stamp"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/postalreduxstamp.png" alt="Postal Redux stamp"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/kmdfmstamp.gif" alt="KMFDM stamp"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/gorestamp.gif" alt="Gore stamp">
 </div>
+
+
+<p align="center"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/postalblinkie.gif" alt="Postal blinkie"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/lpblinkie.gif" alt="LP blinkie"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/kmfdmblinkie.gif" alt="KMFDM blinkie"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/doomblinkie.gif" alt="DOOM blinkie">
+
+
 <p align="center">${{\color{#474138}\texttt{"oh shit"}}}$
 
 <p align="center"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/eddsworldstamp.png" alt="Eddsworld stamp"><img src="https://raw.githubusercontent.com/postaldudesgun/postal-dude/main/postalreduxstamp.png" alt="Postal Redux stamp">
